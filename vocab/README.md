@@ -11,6 +11,7 @@ vocab/
     ├── b1.csv            карточки: слово, перевод, фраза (источник)
     ├── grammar-notes.md  короткие грамматические подсказки
     └── exports/          готовые файлы под приложения
+        ├── algoapp-import.csv   front,back,example (comma-CSV, UTF-8)
         ├── quizlet-import.txt   слово ⇥ перевод — фраза
         └── reword-import.txt    слово ⇥ перевод
 ```
